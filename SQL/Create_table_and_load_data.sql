@@ -238,23 +238,46 @@ OPTION (MAXRECURSION 0);
 GO
 
 /* addition of foreign keys */
-
+/*Inventory -> Product*/
+ALTER TABLE fact_inventory_daily
+ADD CONSTRAINT FK_inventory_product
+FOREIGN KEY (ProductID)
+REFERENCES dim_products(ProductID);
+GO
+    
+Inventory -> Warehouse
+ALTER TABLE fact_inventory_daily
+ADD CONSTRAINT FK_inventory_warehouse
+FOREIGN KEY (WarehouseID)
+REFERENCES dim_warehouses(WarehouseID);
+GO
+    
+Inventory → Date
+ALTER TABLE fact_inventory_daily
+ADD CONSTRAINT FK_inventory_date
+FOREIGN KEY (Date)
+REFERENCES dim_date(Date);
+GO
+/* PURCHASE ORDERS ->WAREHOUSE*/
 ALTER TABLE fact_purchase_orders
 ADD CONSTRAINT FK_purchase_warehouse
 FOREIGN KEY (WarehouseID)
 REFERENCES dim_warehouses(WarehouseID);
 GO
-
+/* PURCHASE ORDERS -> PRODUCT*/    
 ALTER TABLE fact_purchase_orders
 ADD CONSTRAINT FK_purchase_order_date
 FOREIGN KEY (OrderDate)
 REFERENCES dim_date(Date);
 GO
+/* DATE KEYS TO PURCHASE ORDERS*/
 ALTER TABLE fact_purchase_orders
 ADD CONSTRAINT FK_purchase_supplier
 FOREIGN KEY (SupplierID)
 REFERENCES dim_suppliers(SupplierID);
 GO
+
+/* PURCHASE ORDERS -> PRODUCT*/
 ALTER TABLE fact_purchase_orders
 ADD CONSTRAINT FK_purchase_product
 FOREIGN KEY (ProductID)
