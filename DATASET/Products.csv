@@ -1,0 +1,91 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,SupplierID,Perishable,AvgDailyDemand_Est,DemandVariability_CV
+PROD0001,Dairy Item 1,Grocery,Dairy,4.71,9.77,SUP005,Y,42.4,0.36
+PROD0002,Camping Gear Item 2,Sports & Outdoors,Camping Gear,110.72,209.27,SUP016,N,13.74,0.19
+PROD0003,Snacks Item 3,Grocery,Snacks,8.32,12.11,SUP012,Y,25.81,0.31
+PROD0004,Headphones Item 4,Electronics,Headphones,84.63,129.54,SUP010,N,14.6,0.52
+PROD0005,Headphones Item 5,Electronics,Headphones,52.46,131.49,SUP012,N,10.79,0.4
+PROD0006,Canned Goods Item 6,Grocery,Canned Goods,7.7,10.61,SUP007,N,31.57,0.22
+PROD0007,Canned Goods Item 7,Grocery,Canned Goods,2.37,4.64,SUP016,Y,41.3,0.29
+PROD0008,Camping Gear Item 8,Sports & Outdoors,Camping Gear,76.29,128.45,SUP012,N,8.49,0.23
+PROD0009,Footwear Item 9,Apparel,Footwear,31.9,43.93,SUP011,N,14.28,0.16
+PROD0010,Camping Gear Item 10,Sports & Outdoors,Camping Gear,29.63,60.52,SUP018,N,15.26,0.52
+PROD0011,Cameras Item 11,Electronics,Cameras,74.81,162.66,SUP014,N,16.18,0.33
+PROD0012,Lighting Item 12,Home & Garden,Lighting,26.53,66.19,SUP016,N,13.97,0.27
+PROD0013,Women's Dresses Item 13,Apparel,Women's Dresses,38.74,70.26,SUP001,N,14.08,0.39
+PROD0014,Cycling Item 14,Sports & Outdoors,Cycling,54.4,138.24,SUP017,N,11.36,0.15
+PROD0015,Outerwear Item 15,Apparel,Outerwear,21.1,53.17,SUP011,N,20.6,0.26
+PROD0016,Laptops & Tablets Item 16,Electronics,Laptops & Tablets,105.89,274.3,SUP001,N,7.03,0.43
+PROD0017,Camping Gear Item 17,Sports & Outdoors,Camping Gear,134.71,332.3,SUP015,N,17.07,0.4
+PROD0018,Canned Goods Item 18,Grocery,Canned Goods,9.61,20.92,SUP007,Y,34.71,0.54
+PROD0019,Cameras Item 19,Electronics,Cameras,71.02,179.04,SUP015,N,3.85,0.4
+PROD0020,Men's Tops Item 20,Apparel,Men's Tops,55.04,84.85,SUP003,N,4.59,0.34
+PROD0021,Smartphone Accessories Item 21,Electronics,Smartphone Accessories,194.66,310.59,SUP012,N,15.47,0.45
+PROD0022,Accessories Item 22,Apparel,Accessories,63.34,125.16,SUP016,N,4.22,0.51
+PROD0023,Smart Home Item 23,Electronics,Smart Home,64.39,97.54,SUP001,N,6.49,0.44
+PROD0024,Lighting Item 24,Home & Garden,Lighting,95.09,210.89,SUP003,N,6.34,0.54
+PROD0025,Canned Goods Item 25,Grocery,Canned Goods,9.94,22.31,SUP004,N,18.65,0.46
+PROD0026,Laptops & Tablets Item 26,Electronics,Laptops & Tablets,205.37,379.31,SUP003,N,7.02,0.5
+PROD0027,Men's Tops Item 27,Apparel,Men's Tops,45.11,114.78,SUP010,N,19.34,0.2
+PROD0028,Accessories Item 28,Apparel,Accessories,7.47,15.27,SUP019,N,3.32,0.44
+PROD0029,Bakery Item 29,Grocery,Bakery,2.97,5.57,SUP003,N,51.36,0.33
+PROD0030,Snacks Item 30,Grocery,Snacks,9.95,19.25,SUP019,N,52.83,0.37
+PROD0031,Cameras Item 31,Electronics,Cameras,185.54,435.28,SUP003,N,7.96,0.41
+PROD0032,Women's Dresses Item 32,Apparel,Women's Dresses,41.75,101.65,SUP011,N,6.38,0.54
+PROD0033,Beverages Item 33,Grocery,Beverages,5.43,10.22,SUP009,N,40.04,0.54
+PROD0034,Fitness Equipment Item 34,Sports & Outdoors,Fitness Equipment,44.7,73.57,SUP010,N,4.15,0.27
+PROD0035,Lighting Item 35,Home & Garden,Lighting,26.11,37.42,SUP017,N,6.74,0.44
+PROD0036,Beverages Item 36,Grocery,Beverages,10.16,17.66,SUP003,Y,57.92,0.45
+PROD0037,Cycling Item 37,Sports & Outdoors,Cycling,49.86,76.88,SUP004,N,19.92,0.29
+PROD0038,Laptops & Tablets Item 38,Electronics,Laptops & Tablets,29.19,45.78,SUP001,N,14.35,0.2
+PROD0039,Laptops & Tablets Item 39,Electronics,Laptops & Tablets,155.5,286.44,SUP012,N,6.98,0.17
+PROD0040,Accessories Item 40,Apparel,Accessories,57.63,139.11,SUP011,N,18.13,0.46
+PROD0041,Laptops & Tablets Item 41,Electronics,Laptops & Tablets,65.82,109.38,SUP004,N,13.29,0.35
+PROD0042,Bakery Item 42,Grocery,Bakery,2.02,3.67,SUP009,Y,29.39,0.54
+PROD0043,Headphones Item 43,Electronics,Headphones,28.5,71.42,SUP017,N,12.25,0.34
+PROD0044,Smart Home Item 44,Electronics,Smart Home,200.34,515.77,SUP017,N,2.17,0.54
+PROD0045,Garden Tools Item 45,Home & Garden,Garden Tools,118.51,275.39,SUP016,N,4.72,0.31
+PROD0046,Smart Home Item 46,Electronics,Smart Home,121.87,295.16,SUP011,N,10.4,0.47
+PROD0047,Dairy Item 47,Grocery,Dairy,8.22,13.83,SUP008,Y,18.19,0.18
+PROD0048,Snacks Item 48,Grocery,Snacks,3.94,7.13,SUP009,Y,18.3,0.37
+PROD0049,Footwear Item 49,Apparel,Footwear,46.46,79.96,SUP008,N,21.4,0.47
+PROD0050,Team Sports Item 50,Sports & Outdoors,Team Sports,77.33,136.14,SUP019,N,19.8,0.52
+PROD0051,Bakery Item 51,Grocery,Bakery,8.35,19.67,SUP017,Y,37.8,0.48
+PROD0052,Snacks Item 52,Grocery,Snacks,9.22,14.78,SUP006,N,51.95,0.16
+PROD0053,Athletic Footwear Item 53,Sports & Outdoors,Athletic Footwear,96.01,141.03,SUP003,N,19.83,0.3
+PROD0054,Garden Tools Item 54,Home & Garden,Garden Tools,168.98,257.15,SUP002,N,3.84,0.17
+PROD0055,Camping Gear Item 55,Sports & Outdoors,Camping Gear,93.12,216.81,SUP017,N,10.07,0.19
+PROD0056,Lighting Item 56,Home & Garden,Lighting,51.58,107.68,SUP019,N,7.1,0.42
+PROD0057,Laptops & Tablets Item 57,Electronics,Laptops & Tablets,52.6,108.16,SUP013,N,3.28,0.44
+PROD0058,Canned Goods Item 58,Grocery,Canned Goods,6.99,16.11,SUP010,N,47.77,0.46
+PROD0059,Beverages Item 59,Grocery,Beverages,11.28,16.92,SUP012,Y,31.69,0.5
+PROD0060,Laptops & Tablets Item 60,Electronics,Laptops & Tablets,102.56,237.72,SUP014,N,9.51,0.45
+PROD0061,Home Decor Item 61,Home & Garden,Home Decor,162.52,374.31,SUP007,N,3.96,0.47
+PROD0062,Outerwear Item 62,Apparel,Outerwear,24.55,37.98,SUP008,N,6.98,0.17
+PROD0063,Headphones Item 63,Electronics,Headphones,106.46,194.73,SUP019,N,16.51,0.24
+PROD0064,Furniture Item 64,Home & Garden,Furniture,169.02,393.04,SUP012,N,2.58,0.4
+PROD0065,Snacks Item 65,Grocery,Snacks,11.86,26.65,SUP008,N,21.64,0.49
+PROD0066,Smartphone Accessories Item 66,Electronics,Smartphone Accessories,146.69,220.39,SUP018,N,6.67,0.15
+PROD0067,Snacks Item 67,Grocery,Snacks,1.63,3.13,SUP014,N,34.51,0.36
+PROD0068,Accessories Item 68,Apparel,Accessories,32.1,55.45,SUP010,N,15.9,0.42
+PROD0069,Team Sports Item 69,Sports & Outdoors,Team Sports,25.48,66.15,SUP016,N,10.88,0.16
+PROD0070,Team Sports Item 70,Sports & Outdoors,Team Sports,127.17,188.6,SUP006,N,3.51,0.31
+PROD0071,Camping Gear Item 71,Sports & Outdoors,Camping Gear,101.02,147.8,SUP014,N,6.39,0.51
+PROD0072,Athletic Footwear Item 72,Sports & Outdoors,Athletic Footwear,43.72,66.84,SUP001,N,17.18,0.42
+PROD0073,Lighting Item 73,Home & Garden,Lighting,164.63,357.3,SUP004,N,10.29,0.25
+PROD0074,Headphones Item 74,Electronics,Headphones,28.43,59.91,SUP001,N,12.39,0.49
+PROD0075,Lighting Item 75,Home & Garden,Lighting,154.1,219.06,SUP005,N,10.71,0.29
+PROD0076,Lighting Item 76,Home & Garden,Lighting,140.8,312.95,SUP019,N,11.92,0.49
+PROD0077,Cycling Item 77,Sports & Outdoors,Cycling,38.25,57.61,SUP001,N,3.05,0.27
+PROD0078,Canned Goods Item 78,Grocery,Canned Goods,8.12,19.6,SUP015,Y,28.33,0.39
+PROD0079,Furniture Item 79,Home & Garden,Furniture,54.57,122.09,SUP004,N,9.01,0.31
+PROD0080,Team Sports Item 80,Sports & Outdoors,Team Sports,17.63,37.38,SUP013,N,8.09,0.26
+PROD0081,Smartphone Accessories Item 81,Electronics,Smartphone Accessories,161.33,252.71,SUP018,N,15.51,0.5
+PROD0082,Cameras Item 82,Electronics,Cameras,215.97,415.35,SUP004,N,9.72,0.23
+PROD0083,Kitchenware Item 83,Home & Garden,Kitchenware,106.46,163.03,SUP013,N,11.99,0.18
+PROD0084,Cycling Item 84,Sports & Outdoors,Cycling,90.92,202.27,SUP007,N,17.34,0.29
+PROD0085,Garden Tools Item 85,Home & Garden,Garden Tools,33.53,66.57,SUP019,N,8.56,0.44
+PROD0086,Accessories Item 86,Apparel,Accessories,13.03,19.77,SUP010,N,23.01,0.47
+PROD0087,Men's Tops Item 87,Apparel,Men's Tops,31.25,66.05,SUP007,N,15.92,0.55
+PROD0088,Bakery Item 88,Grocery,Bakery,5.79,9.39,SUP009,N,52.51,0.27
+PROD0089,Accessories Item 89,Apparel,Accessories,30.69,59.62,SUP001,N,10.49,0.31
+PROD0090,Men's Tops Item 90,Apparel,Men's Tops,39.38,87.72,SUP012,N,13.97,0.2

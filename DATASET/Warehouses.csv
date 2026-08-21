@@ -1,0 +1,5 @@
+WarehouseID,WarehouseName,Location,RegionServed,Capacity
+WH01,Northeast DC,"Newark, NJ",Northeast,180000
+WH02,Central DC,"Columbus, OH",Midwest,220000
+WH03,West Coast DC,"Ontario, CA",West,200000
+WH04,Southeast DC,"Atlanta, GA",Southeast,160000
